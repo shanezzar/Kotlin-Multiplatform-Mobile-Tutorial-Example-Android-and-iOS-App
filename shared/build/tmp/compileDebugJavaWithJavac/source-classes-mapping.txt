@@ -1,0 +1,2 @@
+com/shanezzar/demo/android/BuildConfig.java
+ com.shanezzar.demo.android.BuildConfig
